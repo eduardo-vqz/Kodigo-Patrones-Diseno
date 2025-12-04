@@ -1,0 +1,4 @@
+Mensaje guardado en TXT:
+Este es un mensaje de prueba
+
+Fecha: 2025-12-04 16:22:05
