@@ -5,7 +5,7 @@
 
 ---
 
-## 📌 Descripción del proyecto
+## Descripción del proyecto
 
 Este repositorio contiene el desarrollo de **cuatro ejercicios prácticos** aplicando patrones de diseño en PHP.  
 El objetivo es demostrar el uso correcto de **Factory**, **Adapter**, **Decorator** y **Strategy** mediante programas funcionales organizados, acompañados de interfaces web diseñadas con **Bootstrap**.
@@ -20,7 +20,7 @@ Cada ejercicio incluye:
 
 ---
 
-## 🧩 Ejercicios desarrollados
+## Ejercicios desarrollados
 
 ### ✔ **Ejercicio 1 – Patrón Factory**
 Crea personajes de videojuego según el nivel:
@@ -30,7 +30,7 @@ Crea personajes de videojuego según el nivel:
 
 Usa el patrón **Factory** para decidir qué personaje debe instanciarse.
 
-👉 Carpeta: `ejercicio1_factory/`
+Carpeta: `ejercicio1_factory/`
 
 ---
 
@@ -42,7 +42,7 @@ Simula compatibilidad entre archivos creados en:
 
 Windows 10 no puede abrir archivos Win7 directamente; por ello se utiliza un **Adapter** para traducir las llamadas del sistema antiguo al nuevo.
 
-👉 Carpeta: `ejercicio2_adapter/`
+Carpeta: `ejercicio2_adapter/`
 
 ---
 
@@ -54,7 +54,7 @@ Permite añadir **armas** (espada, arco, escudo…) a personajes como:
 
 Cada arma modifica dinámicamente el comportamiento del personaje mediante el patrón **Decorator**.
 
-👉 Carpeta: `ejercicio3_decorator/`
+Carpeta: `ejercicio3_decorator/`
 
 ---
 
@@ -67,7 +67,7 @@ Permite mostrar mensajes mediante tres estrategias distintas:
 
 El patrón **Strategy** permite intercambiar dinámicamente la forma de salida del mensaje.
 
-👉 Carpeta: `ejercicio4_strategy/`
+Carpeta: `ejercicio4_strategy/`
 
 ---
 
